@@ -40,5 +40,5 @@ alert (!info);
 BSUIR (Information Systems and Technologies in Economics)
 [JavaScript/Front-end Course](https://rs.school/js/)
 
-###### English level
+##### English level
 B2/Intermadiate (Streamline courses)
