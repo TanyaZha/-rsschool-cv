@@ -1,27 +1,28 @@
-#Tatiana Zhalnerovich
+# Tatiana Zhalnerovich
 
 
-##Contacts
+## Contacts
 - Phone: + 375 44 704 52 09
 - e-mail: tattcy@gmail.com
+- GitHub account: TanyaZha
 
-##About me
+## About me
 *TBD*
 
 ##### Skills
 
-#####Languages
+##### Languages
 - HTML
 - CSS
 - JavaScript 
 
-#####Tools
+##### Tools
 - Git
 - Visual Studio Code
 - SketchBook
 - Figma
 
-#####Code example
+##### Code example
 ```javascript
 let age;
 age = prompt ('enter your age', '');
@@ -31,13 +32,13 @@ let info = (ageN >= 14)&&(ageN<=90);
 alert (!info);
 ```
 
-#####Experience
+##### Experience
 *TBD*
 
-#####Education
+##### Education
 
 BSUIR (Information Systems and Technologies in Economics)
 [JavaScript/Front-end Course](https://rs.school/js/)
 
-######English level
+###### English level
 B2/Intermadiate (Streamline courses)
